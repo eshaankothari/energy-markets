@@ -1,0 +1,7 @@
+# raw ERCOT downloads (~55 MB per day); ercot_data.py re-downloads them
+data/raw/
+__pycache__/
+.pytest_cache/
+.DS_Store
+# work in progress
+trasmission.py
